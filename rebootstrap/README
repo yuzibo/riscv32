@@ -1,0 +1,6 @@
+# usage:
+
+```bash
+bash /tmp/bootstrap_05_18.sh HOST_ARCH=riscv32 GCC_VER=12 \
+MIRROR=http://home.revy.cn:36013/yubos-base 2>&1 | tee build.log
+```
